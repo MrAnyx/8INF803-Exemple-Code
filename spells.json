@@ -1,0 +1,197 @@
+[
+
+   {
+      "name": "Abeyance",
+      "level": "2",
+      "components": [
+         "V",
+         "S",
+         "M",
+         "DF"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Abjuring Step",
+      "level": "1",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": false
+   },
+   {
+      "name": "Ablative Barrier",
+      "level": "2",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Ablative Sphere",
+      "level": "3",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": false
+   },
+   {
+      "name": "Aboleth\u2019s Lung",
+      "level": "2",
+      "components": [
+         "V",
+         "S",
+         "M/DF"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absolution",
+      "level": "4",
+      "components": [
+         "V",
+         "S",
+         "M",
+         "DF"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absorb Rune I",
+      "level": "4",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absorb Toxicity",
+      "level": "3",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absorbing Barrier",
+      "level": "4",
+      "components": [
+         "V",
+         "S",
+         "F"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absorbing Inhalation",
+      "level": "4",
+      "components": [
+         "V",
+         "S"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absorbing Touch",
+      "level": "3",
+      "components": [
+         "S"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Abstemiousness",
+      "level": "1",
+      "components": [
+         "V"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Absurdity",
+      "level": "2",
+      "components": [
+         "V",
+         "S"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Abundant Ammunition",
+      "level": "1",
+      "components": [
+         "V",
+         "S",
+         "M/DF"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Abyssal Vermin",
+      "level": "2",
+      "components": [
+         "V",
+         "S"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Accelerate Poison",
+      "level": "2",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Accept Affliction",
+      "level": "3",
+      "components": [
+         "V",
+         "S",
+         "M/DF"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Accursed Glare",
+      "level": "3",
+      "components": [
+         "V",
+         "S"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Acid Arrow",
+      "level": "2",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": true
+   },
+   {
+      "name": "Acid Fog",
+      "level": "6",
+      "components": [
+         "V",
+         "S",
+         "M"
+      ],
+      "resistance": true
+   }
+]
